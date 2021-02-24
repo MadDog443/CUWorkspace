@@ -1,5 +1,4 @@
 # CUWorkspace
-Contains all the needed scripts and tutorials to update CivUMap, CUData, and CUTiles.
 
 Waypoint Spreadsheet: [Here](https://docs.google.com/spreadsheets/d/1m6yVSf2kriLY1wOx5BC9iCrSrfmDdodDT1s_d1TS56Q/edit?usp=sharing)
 
